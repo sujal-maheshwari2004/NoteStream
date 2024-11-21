@@ -1,0 +1,7 @@
+streamlit
+youtube-transcript-api
+urllib3
+tqdm
+pdfkit
+markdown2
+ollama
